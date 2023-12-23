@@ -235,8 +235,8 @@ section{
 .footer-content .icons{
     padding: 5px;
     margin: 5px;
-    col;
 }
 .footer-content li a{
     text-decoration: none;
+    color: #ffffff;
 }
